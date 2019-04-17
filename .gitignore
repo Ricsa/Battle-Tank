@@ -75,3 +75,6 @@ Battle_Tank_New/Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 Battle_Tank_New/DerivedDataCache/*
+
+# Starter Content
+Battle_Tank_New/Content/StarterContent/*
