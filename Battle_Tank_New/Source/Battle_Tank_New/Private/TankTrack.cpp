@@ -2,6 +2,7 @@
 
 
 #include "..\Public\TankTrack.h"
+#include "Engine/World.h"
 
 UTankTrack::UTankTrack()
 {

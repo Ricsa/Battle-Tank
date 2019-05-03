@@ -8,6 +8,7 @@
 #include "PhysicsEngine/RadialForceComponent.h"
 #include "Kismet/GameplayStatics.h"
 #include "GameFramework/DamageType.h"
+#include "Engine/World.h"
 
 // Sets default values
 AProjectile::AProjectile()
